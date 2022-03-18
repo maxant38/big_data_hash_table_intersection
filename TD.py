@@ -1,12 +1,10 @@
 from enum import auto
-import sympy
 import random
 import numpy as np
 from collections import Counter
 import Lecture_fichier
 import math
 import pandas as pd
-import seaborn as sns
 import matplotlib.pyplot as plt
 ###Create a TAD of legnth M+1###
 
