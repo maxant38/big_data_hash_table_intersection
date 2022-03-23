@@ -20,6 +20,7 @@ In this tutorial, we implement the calculation of this intersection of sets by m
 Programs to execute : 
 - [Main.py](https://github.com/maxant38/big_data_hash_table_intersection/blob/main/Main.py)
 - launch the main function
+- afte a first launch, the programm ask you for trying the GUI [Y/N] (avoid issues with PYQT5 installation)
 
 ## What's in the github repository:
 
@@ -31,13 +32,13 @@ File : [Main.py](https://github.com/maxant38/big_data_hash_table/blob/main/Main.
 The Main Program is responsible for:
 
 - Gather the different components of the project. This is the program to run if you want to use the project.
-- Call the UI 
+- Call the UI after a first launch and a user input
 
 ### Main function used
 File : [TD.py](https://github.com/maxant38/big_data_hash_table_intersection/blob/main/TD.py)
 
-- Define hash function
-- Create hash table
+- Define hash function (native python hash function)
+- Create hash table 
 - Count common words in two texts
 
 
