@@ -1,6 +1,5 @@
 import GUI
 import TD
-import Lecture_fichier
 import numpy as np
 
 
